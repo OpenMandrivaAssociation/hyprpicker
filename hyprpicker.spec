@@ -1,5 +1,5 @@
 Name:           hyprpicker
-Version:        0.4.4
+Version:        0.4.5
 Release:        1
 Summary:        A wlroots-compatible Wayland color picker
 Group:          Utility/Hyprland
