@@ -9,6 +9,7 @@ Source0:        https://github.com/hyprwm/hyprpicker/archive/v%{version}/%{name}
 
 
 BuildRequires:  cmake
+BuildRequires:  make
 BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(glesv2)
 BuildRequires:  pkgconfig(hyprwayland-scanner)
